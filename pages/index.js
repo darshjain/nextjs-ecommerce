@@ -32,7 +32,7 @@ export default function Home() {
 								</CardActionArea>
 								<CardActions>
 									<Typography>${product.price}</Typography>
-									<Button size="small" color="primary-color">
+									<Button size="small" color="primary">
 										Add to Cart
 									</Button>
 								</CardActions>
